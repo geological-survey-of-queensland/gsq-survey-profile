@@ -16,7 +16,7 @@ The sepcialised surveys and their relation to `Survey` are given in Figure 2.
 The contents of this profile - files within this repository - are:
 
 1. [model/](model/) - folder containing image and machine-redable versions of this profile's models
-2. [shapes/](shapes] - folder containing [SHACL](https://www.w3.org/TR/shacl/) *shapes* files used to validate data's conformance to this profile's model
+2. [shapes/](shapes) - folder containing [SHACL](https://www.w3.org/TR/shacl/) *shapes* files used to validate data's conformance to this profile's model
 3. [profile.ttl](profile.ttl) - the formal description of this Profile according to the [The Profiles Vocabulary](https://www.w3.org/TR/dx-prof/).
 
 

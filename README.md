@@ -7,7 +7,7 @@ This is a generic model of a *survey* - a temporal observation event. Within thi
 
 The sepcialised surveys and their relation to `Survey` are given in Figure 2.
 
-<img src="model/survey-hierarchy.svg" style="width:200px;" alt="Survey hierarchy" />  
+<img src="model/survey-hierarchy.svg" style="width:100px;" alt="Survey hierarchy" />  
 
 **Fig. 2**: Survey hierarchy  
 

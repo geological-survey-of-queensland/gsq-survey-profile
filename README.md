@@ -21,7 +21,7 @@ The contents of this profile - files within this repository - are:
 
 ## GSQ classes
 CLasses used in this profile:
-1. [Queensland Mining Permits](http://vocabs.gsq.digital/vocabulary/qld-mining-permit)
+1. [Queensland Mining Permits](https://github.com/geological-survey-of-queensland/gsq-permit-profile)
 2. [Dataset](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
 
 ## OWL classes
@@ -34,7 +34,7 @@ CLasses used in this profile:
 ## Vocabularies
 The vocabularies used in this profile are:
 1. [Seismic Sampling Method](http://vocabs.gsq.digital/vocabulary/seismic-sampling-method)
-2. [BFO Dimensionality]
+2. [BFO Dimensionality](https://github.com/bfo-ontology/BFO/wiki) - Basic Formal Ontology spatial region
 3. [Mining Survey Status](http://vocabs.gsq.digital/vocabulary/mining-survey-status)
 4. [Data Access Rights](http://vocabs.gsq.digital/vocabulary/data-access)
 

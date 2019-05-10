@@ -20,9 +20,9 @@ The contents of this profile - files within this repository - are:
 3. [profile.ttl](profile.ttl) - the formal description of this Profile according to the [The Profiles Vocabulary](https://www.w3.org/TR/dx-prof/).
 
 ## GSQ classes
-First class objects used in this profile:
+CLasses used in this profile:
 1. [Queensland Mining Permits](http://vocabs.gsq.digital/vocabulary/qld-mining-permit)
-2. [Dataset]
+2. [Dataset](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
 
 ## OWL classes
 1. [SOSA sampling](https://www.w3.org/TR/vocab-ssn/#SOSASampling)

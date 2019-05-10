@@ -1,5 +1,5 @@
 # GSQ Survey Profile
-This is a generic model of a *survey* - a temporal observation event. Within this model too are more detailed models of special kinds of `Surveys`, such as `Seismic Surveys`, for the aquisition of seismic data. Figure 1 below shows the basic properties of the generic `Survey` class. 
+This is a generic model of a *survey* - a temporal observation event. Within this model are more detailed models of special kinds of `Surveys`, such as `Seismic Surveys`, for the aquisition of seismic data. Figure 1 below shows the basic properties of the generic `Survey` class. 
 
 <img src="model/survey.svg" style="width:300px;" alt="The GSQ Survey object and its direct properties" />  
 
@@ -19,10 +19,27 @@ The contents of this profile - files within this repository - are:
 2. [shapes/](shapes) - folder containing [SHACL](https://www.w3.org/TR/shacl/) *shapes* files used to validate data's conformance to this profile's model
 3. [profile.ttl](profile.ttl) - the formal description of this Profile according to the [The Profiles Vocabulary](https://www.w3.org/TR/dx-prof/).
 
+## GSQ classes
+First class objects used in this profile:
+1. [Queensland Mining Permits](http://vocabs.gsq.digital/vocabulary/qld-mining-permit)
+2. [Dataset]
+
+## OWL classes
+1. [SOSA sampling](https://www.w3.org/TR/vocab-ssn/#SOSASampling)
+2. [SOSA feature of interest](https://www.w3.org/TR/vocab-ssn/#SOSAFeatureOfInterest)
+3. [FOAF document](http://xmlns.com/foaf/spec/#term_Document) - used to capture the secondary metadata in JSON format
+4. [Geometry](https://www.w3.org/2003/01/geo/)
+5. [ProperInterval](https://www.w3.org/TR/owl-time/#time:ProperInterval)
+
+## Vocabularies
+The vocabularies used in this profile are:
+1. [Seismic Sampling Method](http://vocabs.gsq.digital/vocabulary/seismic-sampling-method)
+2. [BFO Dimensionality]
+3. [Mining Survey Status](http://vocabs.gsq.digital/vocabulary/mining-survey-status)
+4. [Data Access Rights](http://vocabs.gsq.digital/vocabulary/data-access)
 
 ## License
 The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.
-
 
 ## Contacts
 *owner*:  

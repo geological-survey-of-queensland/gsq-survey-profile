@@ -34,7 +34,7 @@ CLasses used in this profile:
 ## Vocabularies
 The vocabularies used in this profile are:
 1. [Seismic Sampling Method](http://vocabs.gsq.digital/vocabulary/seismic-sampling-method)
-2. [BFO Dimensionality](https://github.com/bfo-ontology/BFO/wiki) - Basic Formal Ontology spatial region
+2. [BFO Dimensionality](http://vocabs.gsq.digital/vocabulary/spatial-region) - [Basic Formal Ontology](https://github.com/bfo-ontology/BFO/wiki) spatial region
 3. [Mining Survey Status](http://vocabs.gsq.digital/vocabulary/mining-survey-status)
 4. [Data Access Rights](http://vocabs.gsq.digital/vocabulary/data-access)
 

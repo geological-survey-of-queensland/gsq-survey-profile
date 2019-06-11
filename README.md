@@ -21,7 +21,7 @@ The contents of this profile - files within this repository - are:
 
 ## GSQ classes
 CLasses used in this profile:
-1. [Queensland Mining Permits](https://github.com/geological-survey-of-queensland/gsq-mining-permit-profile)
+1. [Queensland Mining Permits](https://github.com/geological-survey-of-queensland/gsq-permit-profile)
 2. [Dataset](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
 
 ## OWL classes

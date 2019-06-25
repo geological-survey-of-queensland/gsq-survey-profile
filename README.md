@@ -24,6 +24,9 @@ CLasses used in this profile:
 1. [Queensland Mining Permits](https://github.com/geological-survey-of-queensland/gsq-permit-profile)
 2. [Dataset](https://github.com/geological-survey-of-queensland/gsq-dataset-profile)
 
+## GSQ concepts
+1. Seismic Survey Lines (the lines of the seismic survey)
+
 ## OWL classes
 1. [SOSA sampling](https://www.w3.org/TR/vocab-ssn/#SOSASampling)
 2. [SOSA feature of interest](https://www.w3.org/TR/vocab-ssn/#SOSAFeatureOfInterest)

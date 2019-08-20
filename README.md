@@ -11,6 +11,12 @@ The sepcialised surveys and their relation to `Survey` are given in Figure 2.
 
 **Fig. 2**: Survey hierarchy  
 
+## Seismic Survey
+Seismic survey is a specialised survey.
+
+<img src="model/seismic-survey.svg" style="width:300px;" alt="Seismic Survey" />  
+
+**Fig. 3**: Seismic Survey  
 
 ## Profile contents
 The contents of this profile - files within this repository - are:

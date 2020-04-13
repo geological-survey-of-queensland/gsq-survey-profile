@@ -3,9 +3,11 @@ This profile describes the `survey` concept.
 
 GSQ uses `survey` to describe a temporal observation event. Within this mdoel there are more detailed mdoesl of special kinds of `surveys`, such as `seismic surveys` for the acquisition of seismic data. Figure 1 below shows the basic properties of the generic `survey` class.
 
-<img src="model/profile-Survey.svg" style="width:300px;" alt="The GSQ Survey object and its direct properties" />
+<p align="center">
+<img src="model/profile-Survey.svg" style="width:700px><br>
+Figure 1: Survey profile</p>
 
-**Fig. 1**: The GSQ Survey object and its direct properties  
+Figure 1. shows the template Survey profile used by GSQ.
 
 The sepcialised surveys and their relation to `Survey` are given in Figure 2.
 

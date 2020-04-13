@@ -50,20 +50,15 @@ No distribution properties for Survey template
 2. [Survey type](https://vocabs.gsq.digital/vocabulary/survey-type)
 3. [Survey method](https://vocabs.gsq.digital/vocabulary/survey-method)
 
-
-
-The sepcialised surveys and their relation to `Survey` are given in Figure 2.
-
-<img src="model/survey-hierarchy.svg" style="width:100px;" alt="Survey hierarchy" />  
-
-**Fig. 2**: Survey hierarchy  
-
 ## Seismic Survey
 Seismic survey is a specialised survey.
 
-<img src="model/seismic-survey.svg" style="width:300px;" alt="Seismic Survey" />  
+<p align="center">
+<img src="model/seismic-survey.svg" width="700px"><br>  
+Figure 2: Seismic Survey profile</p
 
-**Fig. 3**: Seismic Survey  
+Figure 2. shows the specialised seismic survey profile used by GSQ.
+
 The vocabularies used in this profile are:
 1. [Seismic Sampling Method](http://vocabs.gsq.digital/vocabulary/seismic-sampling-method)
 2. [BFO Dimensionality](http://vocabs.gsq.digital/vocabulary/spatial-region) - [Basic Formal Ontology](https://github.com/bfo-ontology/BFO/wiki) spatial region

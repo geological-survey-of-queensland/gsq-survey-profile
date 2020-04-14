@@ -67,7 +67,7 @@ The vocabularies used in this profile are:
 
 ## Aerial survey ???
 
-## Groudn survey ???
+## Ground survey ???
 
 ## License
 The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.

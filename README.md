@@ -24,19 +24,19 @@ Classes used in this profile:
 
 ## OWL classes
 1. [SOSA sampling](https://www.w3.org/TR/vocab-ssn/#SOSASampling)
-1. [dct:title](https://w3c.github.io/dxwg/dcat/#Property:resource_title) - report title
-2. [dct:description](https://w3c.github.io/dxwg/dcat/#Property:resource_description)
-3. [dct:identifier](https://w3c.github.io/dxwg/dcat/#Property:resource_identifier) - report number 
-4. xxx:alias
-5. [dct:created](https://w3c.github.io/dxwg/dcat/)
-6. [dct:issued](https://w3c.github.io/dxwg/dcat/#Property:resource_release_date) - date of formal issuance (e.g., open file publication)
-7. [dct:modified](https://w3c.github.io/dxwg/dcat/#Property:resource_update_date) - most recent date on which the item was changed, updated or modified
-8. [dct:creator](https://w3c.github.io/dxwg/dcat/#Property:resource_creator) - the author of the report
-9. [dct:publisher](https://w3c.github.io/dxwg/dcat/#Property:resource_publisher) - GSQ
-10. [dct:contactPoint](https://w3c.github.io/dxwg/dcat/#Property:resource_contact_point) - GSQ contact
-11. [prov:Agent](http://https://www.w3.org/TR/prov-o/#Agent)
-12. [rdfs:seeAlso](https://www.w3.org/TR/rdf-schema/#ch_seealso) - refers to secondary metadata
-13. [FOAF document](http://xmlns.com/foaf/spec/#term_Document) - a document with secondary metadata
+2. [dct:title](https://w3c.github.io/dxwg/dcat/#Property:resource_title) - report title
+3. [dct:description](https://w3c.github.io/dxwg/dcat/#Property:resource_description)
+4. [dct:identifier](https://w3c.github.io/dxwg/dcat/#Property:resource_identifier) - report number 
+5. xxx:alias
+6. [dct:created](https://w3c.github.io/dxwg/dcat/)
+7. [dct:issued](https://w3c.github.io/dxwg/dcat/#Property:resource_release_date) - date of formal issuance (e.g., open file publication)
+8. [dct:modified](https://w3c.github.io/dxwg/dcat/#Property:resource_update_date) - most recent date on which the item was changed, updated or modified
+9. [dct:creator](https://w3c.github.io/dxwg/dcat/#Property:resource_creator) - the author of the report
+10. [dct:publisher](https://w3c.github.io/dxwg/dcat/#Property:resource_publisher) - GSQ
+11. [dct:contactPoint](https://w3c.github.io/dxwg/dcat/#Property:resource_contact_point) - GSQ contact
+12. [prov:Agent](http://https://www.w3.org/TR/prov-o/#Agent)
+13. [rdfs:seeAlso](https://www.w3.org/TR/rdf-schema/#ch_seealso) - refers to secondary metadata
+14. [FOAF document](http://xmlns.com/foaf/spec/#term_Document) - a document with secondary metadata
 15. [time:properInterval](https://www.w3.org/TR/owl-time/#time:Interval)
 16. [time:hasStartTime](https://www.w3.org/TR/owl-time/#time:hasBeginning)
 17. [time:hasEndTime](https://www.w3.org/TR/owl-time/#time:hasBeginning)
@@ -65,6 +65,10 @@ The vocabularies used in this profile are:
 3. [Mining Survey Status](http://vocabs.gsq.digital/vocabulary/mining-survey-status)
 4. [Data Access Rights](http://vocabs.gsq.digital/vocabulary/data-access)
 
+## Aerial survey ???
+
+## Groudn survey ???
+
 ## License
 The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.
 
@@ -76,7 +80,7 @@ Geological Survey of Queensland
 <mark.gordon@dnrme.qld.gov.au>   
 
 *author*:  
-**Nicholas Car**  
-*Senior Experimental Scientist*  
-CSIRO Land & Water, Environmental Informatics Group  
-<nicholas.car@csiro.au>
+**Your Name**  
+*Your Role Title - Your Unit*  
+Geological Survey of Queensland  
+<your.email@dnrme.qld.gov.au>

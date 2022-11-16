@@ -50,15 +50,9 @@ The vocabularies used in this profile are:
 ## License
 The content of this repository is licensed for use with the [Creative Commons 4.0 License](https://creativecommons.org/licenses/by/4.0/). See the [license deed](LICENSE) for details.
 
-## Contacts 
-*owner*:  
-**Mark Gordon**  
-*Director - Geoscience Information*  
-Geological Survey of Queensland  
-<mark.gordon@dnrme.qld.gov.au>   
-
-*author*:  
-**Nicholas Car**  
-*Senior Experimental Scientist*  
-CSIRO Land & Water, Environmental Informatics Group  
-<nicholas.car@csiro.au>
+## Contacts
+**Geoscience Information Team**,
+Geological Survey of Queensland,
+Department of Resources,
+Brisbane, QLD, Australia,
+<geological_info@resources.qld.gov.au>
